@@ -1,5 +1,13 @@
 {
   "name": {
     "required": true
+  },
+  "image": {
+    "required": true,
+    "type": "image"
+  },
+  "image2": {
+    "required": false,
+    "type": "image"
   }
 }
