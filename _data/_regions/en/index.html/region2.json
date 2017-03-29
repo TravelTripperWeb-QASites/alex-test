@@ -6,6 +6,6 @@
 	},
 	{
 		"_template": "html",
-		"content": "<p>Sample HTML!</p>"
+		"content": "<p>Sample HTML!</p>\n<p><img id=\"1490799941209\" class=\" \" title=\"it's a well!\" src=\"https://cdn.qa-traveltripper.info/site-assets/2_1_3/media/2017-02-09-132656/img0563.jpg\" alt=\"it's a well!\" width=\"170\" height=\"127\" /></p>"
 	}
 ]
